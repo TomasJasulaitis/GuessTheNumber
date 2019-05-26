@@ -1,0 +1,26 @@
+
+    <resources>
+        <string name="app_name">Guessing king</string>
+        <string name="guessText">Guess the number from 1 to 100</string>
+        <string name="guessesLeft">Guesses left: 5</string>
+        <string name="guessButtonText">Guess</string>
+        <string name="playerGuess">Number</string>
+        <string name="tryNumber">Turn: 1</string>
+        <string name="hint">hint: none</string>
+        <string name="startGameBtn">Play</string>
+        <string name="settingsBtn">Settings</string>
+        <string name="historyBtn">History</string>
+        <string name="aboutBtn">About</string>
+        <string name="gameLost">You lost, correct number was:</string>
+        <string name="gameWon">You won! correct turn:</string>
+        <string name="correctNumber">Correct number:</string>
+        <string name="saveSettings">Save</string>
+        <string name="guessCount">Number of guesses</string>
+        <string name="username">Username</string>
+        <string name="numberFrom">Guess from</string>
+        <string name="numberTo">Guess to</string>
+        <string name="about_text">This is a game where you need to guess the number
+                            \nYou have limited tries
+                            \nGood luck!</string>
+
+    </resources>
